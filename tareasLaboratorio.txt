@@ -1,0 +1,14 @@
+
+// borrar shell memory - semaphora
+ipcrm -s <id>
+
+********* tarea *********
+semafora de 10 procesos corriendo  ( 4 terminales) y que 4 terminales lean los datos.
+
+programa con 1 semaphora .....
+programa con 3 semaphora .....
+- crear un programa que tenga 3 recursos con una semafora y 10 thread.
+- crear un programa que implemente semaphora con 1 recurso y share memory y 4 procesos
+
+tarea 1
+1 archivo
